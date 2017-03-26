@@ -1,0 +1,75 @@
+
+body{
+	background-image: url(ing/epn5jEdFzKo.jpg);
+	background-position: bottom;
+}
+
+
+h1{
+	float: left;
+	text-align: center;
+	text-shadow: 1px 1px 2px #696969;
+
+}
+
+
+#god{
+position: absolute;
+    left: 500px;
+}
+#prop1{
+
+position: absolute;
+    left: 575px;
+
+}
+#hv{
+position: absolute;
+    left: 650px;
+}
+#prop2{
+
+	position: absolute;
+    left: 725px;
+}
+#sc{
+position: absolute;
+    left: 800px;
+}
+button{
+    float: bottom;
+    background-color: #696969; 
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 28px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #696969;
+    display: inline-block;
+    font-size: 30px;
+}
+#str{
+position: absolute;
+    top: 100px;
+    left: 390px;
+}
+#ps{
+position: absolute;
+    left: 590px;
+top: 100px;
+}
+#stp{
+position: absolute;
+    left: 790px;
+top: 100px;
+}
+#tek{
+position: absolute;
+left: 500px;
+color: #696969;
+top: 300px;
+font-size: 100px;
+text-shadow: 2px 1px 2px black;
+
+
+}
